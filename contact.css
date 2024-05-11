@@ -56,6 +56,11 @@ nav ul li a {
     color: black;
 }
 
+.contact {
+    background-color: #ddd;
+    border-radius: 50cm;
+}
+
 
 .container {
     height: 100vh;

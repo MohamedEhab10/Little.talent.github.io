@@ -56,6 +56,12 @@ nav ul li a {
     color: black;
 }
 
+.home {
+    background-color: #ddd;
+    border-radius: 50cm;
+}
+
+
 .right-img img {
     background-size: cover;
     width: 40%;
